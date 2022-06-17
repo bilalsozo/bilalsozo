@@ -1,0 +1,12 @@
+{
+     "ip":bilalsozocGKA.aternos.me:.aternos.me",
+     "port":"20680",
+     "name":bilalsozo"     
+}
+
+
+  
+
+
+
+    
